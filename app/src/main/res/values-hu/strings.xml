@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">My Shopping List</string>
+    <string name="title_activity_shopping_details">Bevásárlás részletei</string>
+    <string name="mail_to">E-Mail címzettje:</string>
+    <string name="subject">Tárgy:</string>
+    <string name="shopping_list_name">Írjon be egy lista nevet...</string>
+    <string name="item_name_hint">Írja be a megvásárolni kívánt termék nevét...</string>
+    <string name="status_message">Vásárlás állapota</string>
+    <string name="menu_add_item">Új termék hozzáadása</string>
+    <string name="menu_delete_all">Összes törlése</string>
+    <string name="thing_text">. termék:</string>
+    <string name="item_text">Termék:</string>
+    <string name="category_text">Kategória:</string>
+    <string name="email_title">E-mail küldése...</string>
+    <string name="mail_error">Kérem telepítsen egy E-mail küldésére alkalmas applikációt!</string>
+    <string name="shopping_list_error">Üres listanév!</string>
+    <string name="ok_title">OK</string>
+    <string name="cancel_text">Vissza</string>
+    <string name="new_item">Új termék hozzáadása...</string>
+    <string name="sure_dialog">Biztosan törölni szeretné?</string>
+    <string name="delete_text">Törlés</string>
+    <string name="add">Hozzáadás</string>
+    <string name="notification_message">Bevásárlása van tervezve a mai napra!</string>
+
+    <string-array name="categories">
+        <item>Élelmiszer</item>
+        <item>Elektronika</item>
+        <item>Könyv</item>
+        <item>Ital</item>
+        <item>Játék</item>
+        <item>Háztartási</item>
+    </string-array>
+
+</resources>

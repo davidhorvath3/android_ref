@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/addNewShoppingList"
+        android:title="@string/add"
+        android:orderInCategory="100" />
+
+    <item
+        android:id="@+id/deleteAllOption"
+        android:title="@string/menu_delete_all"
+        android:orderInCategory="100"
+        />
+
+</menu>

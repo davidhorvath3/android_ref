@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4c4c4e</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="mainBg">#9b8e8e</color>
+    <color name="listitem">#d1c79a</color>
+    <color name="bought_text">#f90303</color>
+</resources>

@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">My Shopping List</string>
+    <string name="title_activity_shopping_details">ShoppingDetailsActivity</string>
+    <string name="mail_to">E-Mail to:</string>
+    <string name="subject">Subject:</string>
+    <string name="shopping_list_name">Enter a shopping list name...</string>
+    <string name="item_name_hint">Enter an item name...</string>
+    <string name="status_message">Bought</string>
+    <string name="menu_add_item">Add new item</string>
+    <string name="menu_delete_all">Delete All</string>
+    <string name="thing_text">. thing:</string>
+    <string name="item_text">Thing:</string>
+    <string name="category_text">Category:</string>
+    <string name="email_title">Sending an E-mail...</string>
+    <string name="mail_error">Please install an E-mail client</string>
+    <string name="shopping_list_error">Empty Shopping List field!</string>
+    <string name="ok_title">OK</string>
+    <string name="cancel_text">Cancel</string>
+    <string name="new_item">Add a new shopping item...</string>
+    <string name="sure_dialog">Are you sure?</string>
+    <string name="delete_text">Delete</string>
+    <string name="add">Add</string>
+    <string name="notification_message">You have a shopping for today!</string>
+
+    <string-array name="categories">
+        <item>Food</item>
+        <item>Electronic</item>
+        <item>Book</item>
+        <item>Drink</item>
+        <item>Game</item>
+        <item>House</item>
+    </string-array>
+
+</resources>
